@@ -48,14 +48,14 @@ module.exports = {
 
     const info = `
 ⫷          O᩶w᩶n᩶e᩶r᩶ I᩶n᩶f᩶o᩶          ⫸
-┃ ☁️ 𝗡𝗮𝗺𝗲:          JUNA IRA
-┃ ⚙️ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲:     💋♡JUNA IRA BOT BY NX♡ く
-┃ 🎂 𝗔𝗴𝗲:            15
-┃ 🧠 𝗖𝗹𝗮𝘀𝘀:          9
+┃ ☁️ 𝗡𝗮𝗺𝗲:          XZ ANTU
+┃ ⚙️ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲:     💋♡ANTU CHAT BOT BY XZ♡ く
+┃ 🎂 𝗔𝗴𝗲:            17
+┃ 🧠 𝗖𝗹𝗮𝘀𝘀:          10
 ┃ ❤️ 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻:      Single 
-┃ ♂️ 𝗚𝗲𝗻𝗱𝗲𝗿:        Female 
-┃ 🏠 𝗙𝗿𝗼𝗺:          Thakurgaon
-┃ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:     https://www.facebook.com/jisa.jioki
+┃ ♂️ 𝗚𝗲𝗻𝗱𝗲𝗿:        male 
+┃ 🏠 𝗙𝗿𝗼𝗺:          Khagrachhari 
+┃ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:     https://www.facebook.com/antu.das.27182?mibextid=ZbWKwL
 ♡ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐦𝐲 𝐛𝐨𝐭 ♡
     `.trim();
 
