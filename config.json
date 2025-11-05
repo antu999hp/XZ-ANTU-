@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "ANTU CHAT BOT BY NX💋",
+  "nickNameBot": "YOU'R BBZ💋",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -163,3 +163,5 @@
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
 }
+" antiout on "
+" antiout off "
